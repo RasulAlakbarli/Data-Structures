@@ -1,6 +1,5 @@
 #include <iostream>
 
-// Linked list 
 struct Node{
     int data;
     Node* next;
