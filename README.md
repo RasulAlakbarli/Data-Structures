@@ -2,7 +2,7 @@
 
 This repository contains C++ implementations of various data structures. This repo is created to help beginners like me understand the basics of data structures and algorithms and learn c++ programming.
 
-Learning of C++ is done from the book [A Tour of C++](./A%20Tour%20of%20C++%20(2nd%20Edition).pdf) by Bjarne Stroustrup. 
+Learning of C++ is done from the book [A Tour of C++](./resources/A%20Tour%20of%20C++%20(2nd%20Edition).pdf) by Bjarne Stroustrup. 
 
 ---
 
@@ -18,7 +18,7 @@ Learning of C++ is done from the book [A Tour of C++](./A%20Tour%20of%20C++%20(2
    - **Key Features**:
      - Efficient insertion using `head` and `tail` pointers.
      - Memory safety with a destructor to avoid memory leaks.
-   - [Source Code](./LinkedList.cpp) 
+   - [Source Code](./code/LinkedList.cpp) 
 
 ---
 
