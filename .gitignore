@@ -27,6 +27,6 @@
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+code/*.exe
+code/*.out
+code/*.app
