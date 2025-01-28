@@ -30,3 +30,5 @@
 code/*.exe
 code/*.out
 code/*.app
+
+.DS_Store
